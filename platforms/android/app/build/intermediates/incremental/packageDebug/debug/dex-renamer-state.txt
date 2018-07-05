@@ -1,0 +1,4 @@
+#Thu Jul 05 01:59:53 PDT 2018
+base.0=C\:\\Users\\mrgaw\\Desktop\\JS workspace\\SWD106\\MyIonicApps\\SWD106Final\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\mrgaw\\Desktop\\JS workspace\\SWD106\\MyIonicApps\\SWD106Final\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
